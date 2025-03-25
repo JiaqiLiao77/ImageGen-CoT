@@ -6,4 +6,4 @@ ImageGen-CoT: Enhancing Text-to-Image In-context Learning with Chain-of-Thought 
 ## Release Plan
 - [ ] Paper
 - [ ] Evaluation code
-- [ ] Fine-tuning code
+- [ ] Fine-tuning code (to be completed within 10 days)
